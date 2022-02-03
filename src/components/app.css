@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    margin-top: 20px;
+}
+
+.home{
+    flex:4;
+    background-color: white;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
